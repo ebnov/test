@@ -8,10 +8,13 @@
  ============================================================================
  */
 
+#include "manager.h"
+
 #include <stdio.h>
 #include <stdlib.h>
 
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	printe();
 	return EXIT_SUCCESS;
 }
